@@ -46,7 +46,7 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/SIAMS.git
+   https://github.com/Acquaah-Emmanuel-Kofi/SIAMS.git
    cd SIAMS
    ```
 
